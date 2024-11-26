@@ -15,6 +15,6 @@ You can test your models by adding them to `bin` directory and `bin/__init__.py`
 1. Download the data from this [link](https://huggingface.co/datasets/Sinario/hypersdt/tree/main)(~250M)
 2. Unpack the archive to the `data` directory: `tar -zxvf data-t2g.tar.gz -C ./data` (`mkdir data` if not exist)
 
-## 6. Acknowledgement
+## Acknowledgement
 
 We sincerely appreciate the benchmark provided by Yura52‘s [work1](https://github.com/Yura52/tabular-dl-revisiting-models) and [work2](https://github.com/yandex-research/tabular-dl-num-embeddings) for fair comparison and script implementation.
