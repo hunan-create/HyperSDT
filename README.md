@@ -13,7 +13,7 @@ You can test your models by adding them to `bin` directory and `bin/__init__.py`
 *LICENSE*: by downloading our dataset you accept licenses of all its components. We do not impose any new restrictions in addition to those licenses. You can find the list of sources in the section "References" of our paper.
 
 1. Download the data from this [link](https://huggingface.co/datasets/Sinario/hypersdt/tree/main)(~250M)
-2. Unpack the archive to the `data` directory: `tar -zxvf data-t2g.tar.gz -C ./data` (`mkdir data` if not exist)
+2. Unpack the .zip file to the root directory of the project: `unzip data.zip -d ./` (`mkdir data` if not exist)
 
 ## Acknowledgement
 
